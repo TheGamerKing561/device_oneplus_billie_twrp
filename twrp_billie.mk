@@ -24,7 +24,7 @@ $(call inherit-product, device/oneplus/billie/device.mk)
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := billie
-PRODUCT_NAME := omni_billie
+PRODUCT_NAME := twrp_billie
 PRODUCT_BRAND := OnePlus
 PRODUCT_MODEL := OnePlus
 PRODUCT_MANUFACTURER := OnePlus
