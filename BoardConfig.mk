@@ -23,7 +23,7 @@
 # *not* include it on all devices, so it is safe even with hardware-specific
 # components.
 
-LOCAL_PATH := device/oneplus/avicii
+LOCAL_PATH := device/oneplus/billie
 
 # Architecture
 TARGET_ARCH := arm64
